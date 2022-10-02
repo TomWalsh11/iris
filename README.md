@@ -1,2 +1,2 @@
 # Support Vector Machines
-In this project I use SVM to classify species of iris
+In this project I use SVM to classify three species of iris
